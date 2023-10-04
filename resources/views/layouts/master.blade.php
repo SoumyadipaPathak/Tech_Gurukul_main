@@ -42,7 +42,6 @@
             </div>
             @include('layouts.inc.admin-footer')
         </div>
-
     </div>
     <!-- Scripts -->
     <script src="{{ asset('assets/js/sb-admin-2.js') }}"></script>
